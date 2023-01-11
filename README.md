@@ -16,6 +16,15 @@
 __Fonte:https://www.linkedin.com/in/gabriel-rocha-66160a227/__
 
 
-Meta para janeiro
-- [x] Parte 1
-- [x] Parte 2
+Metas para janeiro
+- [x] Dentista
+- [x] Dirigir
+
+Task para continuar o aprimoramento 
+- [ ] assistir ao curso; :speech_balloon:
+- [ ] jogar jogo :speech_balloon:
+- [ ] jogo brasil :speech_balloon:
+- [ ] jogo da holanda :speech_balloon:
+- [ ] jogo da frança :speech_balloon:
+- [ ] jogo da inglaterra :speech_balloon:
+- [ ] jogo do brasil 
