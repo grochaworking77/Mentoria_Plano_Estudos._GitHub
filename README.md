@@ -26,4 +26,4 @@ Metas de 2023 🗓️:
 
 
 Mídias Sociais:
-[Instagram] (https://instagram.com/umgabrielrocha
+:vibration_mode: [Instagram] (https://instagram.com/umgabrielrocha)
