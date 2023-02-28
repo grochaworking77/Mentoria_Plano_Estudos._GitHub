@@ -12,7 +12,7 @@
 - Curso de WireShark completo [Acesse aqui](https://www.wireshark.org/)
 - Curso de Shodan.io completo [Acesse aqui](https://shodan.io)
 
-Metas de 2023 🗓️:
+## Metas de 2023 🗓️:
 
 
 - [ ] Faculdade 📑👨🏾‍🎓
@@ -27,4 +27,4 @@ Metas de 2023 🗓️:
 
 ## Mídias Sociais:
 - :vibration_mode:[Instagram](https://instagram.com/umgabrielrocha)
-- [LinkedIn](https://www.linkedin.com/in/umgabrielrochawork)
+- 🖱️[LinkedIn](https://www.linkedin.com/in/umgabrielrochawork)
