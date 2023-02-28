@@ -26,5 +26,5 @@
 
 
 ## Mídias Sociais:
--📲[Instagram](https://instagram.com/umgabrielrocha)
--🖱️[LinkedIn](https://www.linkedin.com/in/umgabrielrochawork)
+- 📲[Instagram](https://instagram.com/umgabrielrocha)
+- 🖱️[LinkedIn](https://www.linkedin.com/in/umgabrielrochawork)
